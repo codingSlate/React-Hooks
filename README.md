@@ -16,3 +16,4 @@
 - runs asyncronously , component re-render with updated state
 - we receive an array of 2 elements
 - current value of the state and set of Functions to update the state
+- when state change the component that own the state will be re-rendered as well as ite entire child components tree
