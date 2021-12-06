@@ -1,9 +1,9 @@
 import React, { Fragment } from 'react';
 
-const InteractiveView = ({ value, onIncrement, actionText }) => (
+const InteractiveView = ({ value, onAction, actionText }) => (
   <Fragment>
     <h1>{value}</h1>
-    <button onClick={onIncrement}>{actionText}</button>
+    <button onClick={onAction}>{actionText}</button>
   </Fragment>
 );
 

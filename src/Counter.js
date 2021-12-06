@@ -6,7 +6,7 @@ export default function Counter() {
   return (
     <InteractiveView
       value={count}
-      onIncrement={onIncrementHandler}
+      onAction={onIncrementHandler}
       actionText="Increment"
     />
   );
