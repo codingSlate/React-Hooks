@@ -1,8 +1,8 @@
-# react-lkho3q
+# react-hooks
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-lkho3q)
 
-# React hools
+# React hooks
 
 - React way to adding completx functionality to our component when we create them with JavaScript Functions
 - Always starts with "use" naming Convension
