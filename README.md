@@ -20,3 +20,4 @@
 - Important: the inline functions get executed before the view is returned, it may block the rendering of component
 - rendering the components should be block by using use useEffect, it is the better way
 ## useEffect
+- React runs useEffect Hook asynchronously after the view has been rendered
